@@ -1,0 +1,36 @@
+{
+  "cnn_dailymail": [
+    {
+      "id": "cnn_01",
+      "title": "Breakthrough in Renewable Solar Energy Storage",
+      "category": "Science & Tech",
+      "text": "Scientists at the Global Energy Institute have announced a major breakthrough in solar energy storage technology. The team has developed a novel hybrid battery system that utilizes abundant, non-toxic organic materials capable of storing solar power for up to six months with minimal efficiency loss. Traditional solar energy systems often struggle with energy storage during night hours or prolonged cloudy periods. Existing lithium-ion batteries are costly to produce and present environmental challenges during disposal. The new organic flow battery overcomes these limitations by using liquid electrolytes derived from plant polymers. In testing, the prototype sustained over 10,000 charge cycles while maintaining 98% capacity. Industry experts believe this technology could accelerate the global transition to clean energy, making off-grid solar power reliable and affordable for remote communities worldwide. Commercial production is slated to begin within the next two years following final safety certifications.",
+      "reference_summary": "Scientists developed a novel organic hybrid battery capable of storing solar energy for six months with 98% efficiency over 10,000 cycles, potentially revolutionizing clean energy storage."
+    },
+    {
+      "id": "cnn_02",
+      "title": "Global Ocean Preservation Pact Signed by 50 Nations",
+      "category": "Environment",
+      "text": "Delegates from fifty countries gathered in Geneva today to sign a historic international treaty aimed at protecting thirty percent of the world's oceans by the year 2030. The accord, known as the Global Ocean Heritage Protection Agreement, establishes high-seas marine sanctuaries where commercial fishing, deep-sea mining, and oil drilling will be strictly prohibited. Oceanographers have warned that rising sea temperatures and plastic pollution have reduced marine biodiversity by nearly forty percent over the past three decades. Under the treaty, participating nations will deploy satellite tracking and automated naval patrols to enforce protection zones. Additionally, a dedicated five billion dollar environmental fund will assist developing coastal nations in implementing sustainable fisheries and coastal restoration projects. Environmental organizations praised the agreement as a vital step toward preserving fragile marine ecosystems for future generations.",
+      "reference_summary": "Fifty nations signed a landmark treaty in Geneva to protect 30% of global oceans by 2030, establishing high-seas sanctuaries and a $5B fund for marine preservation."
+    }
+  ],
+  "xsum": [
+    {
+      "id": "xsum_01",
+      "title": "Artificial Intelligence in Modern Healthcare",
+      "category": "Technology & Health",
+      "text": "Artificial intelligence algorithms are rapidly transforming medical diagnostics by analyzing complex imaging scans faster and with higher accuracy than standard clinical methods. A multi-center trial involving twenty major hospitals demonstrated that an AI algorithm trained on millions of mammograms and chest X-rays detected early-stage tumors with 94 percent precision, reducing false positives by nearly thirty percent. Physicians emphasize that the AI system is designed to assist rather than replace human radiologists, providing second opinions and prioritizing urgent scans in high-volume emergency rooms. Researchers are now expanding the technology to detect subtle neurological changes indicative of early Alzheimer's disease.",
+      "reference_summary": "AI algorithms in healthcare achieve 94% accuracy in detecting early-stage tumors from X-rays, aiding radiologists and prioritizing urgent patient scans."
+    }
+  ],
+  "tech_articles": [
+    {
+      "id": "tech_01",
+      "title": "The Evolution of Natural Language Processing",
+      "category": "Artificial Intelligence",
+      "text": "Natural Language Processing is a branch of artificial intelligence that empowers computers to understand, interpret, and generate human speech and text. Early language processing systems relied on rigid, hand-crafted rules and basic statistical dictionaries. However, the introduction of deep learning and the Transformer architecture in 2017 revolutionized the field. Transformer models utilize self-attention mechanisms to understand word context, sentence structure, and subtle nuances across long passages of text. Today, pre-trained transformer models such as BERT, T5, and BART power real-time machine translation, automated text summarization, sentiment analysis, and conversational virtual assistants.",
+      "reference_summary": "Transformer models revolutionized language understanding by enabling deep contextual understanding, driving modern applications in translation, text summarization, and virtual assistants."
+    }
+  ]
+}
